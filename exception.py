@@ -1,0 +1,2 @@
+class XRayAPIException(Exception):
+    pass
